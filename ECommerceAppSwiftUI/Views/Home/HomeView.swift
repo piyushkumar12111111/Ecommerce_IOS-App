@@ -3,7 +3,7 @@
 //  ECommerceAppSwiftUI
 //
 //  Created by Ayush Gupta on 26/11/19.
-//  Copyright © 2019 Ayush Gupta. All rights reserved.
+//  Copyright © 2019 piyush Gupta. All rights reserved.
 //
 
 import SwiftUI
