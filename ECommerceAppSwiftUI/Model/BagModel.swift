@@ -6,6 +6,7 @@
 //  Copyright © 2019 Ayush Gupta. All rights reserved.
 //
 
+
 import Foundation
 
 struct BagModel: Identifiable {
