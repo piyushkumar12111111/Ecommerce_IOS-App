@@ -15,7 +15,7 @@ struct MyOrdersView: View {
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
     
     fileprivate func NavigationBarView() -> some View {
-        return HStack {
+        return HStack { //! 
             Button(action: {
                 self.presentationMode.wrappedValue.dismiss()
             }) {

@@ -13,7 +13,7 @@ struct TabBarView: View {
     @State var selected = 0
     
     var body: some View {
-        ZStack {
+        ZStack {   //! zstack is used to stack the views on top of each other
             Color.init(hex: "f9f9f9")
                 .edgesIgnoringSafeArea(.all)
             TabView(selection: $selected) {
